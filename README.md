@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ogii-codes
 - 👀 I’m interested in Web & Mobile Software Development
-- 🌱 I’m currently learning React JS, Swift & SwiftUI
+- 🌱 I’m currently learning Java, React JS, Swift & SwiftUI
 
 
 <!---
